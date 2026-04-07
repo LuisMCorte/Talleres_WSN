@@ -4,3 +4,5 @@ Sensor
 Procesador
 Monitor
 Plotting
+
+y el archivo Dockerfile
